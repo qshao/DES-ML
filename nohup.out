@@ -1,0 +1,265 @@
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Using device: cuda
+Epoch 0, Loss: 9588.142578125
+Epoch 100, Loss: 3723.419921875
+Epoch 200, Loss: 2995.037353515625
+Epoch 300, Loss: 2626.960693359375
+Epoch 400, Loss: 2266.041015625
+Epoch 500, Loss: 1586.0240478515625
+Epoch 600, Loss: 1482.6185302734375
+Epoch 700, Loss: 852.2725830078125
+Epoch 800, Loss: 720.141845703125
+Epoch 900, Loss: 632.1641845703125
+Epoch 1000, Loss: 633.7369384765625
+Epoch 1100, Loss: 597.2808837890625
+Epoch 1200, Loss: 565.9977416992188
+Epoch 1300, Loss: 688.6668090820312
+Epoch 1400, Loss: 567.3305053710938
+Epoch 1500, Loss: 513.17431640625
+Epoch 1600, Loss: 476.295654296875
+Epoch 1700, Loss: 483.9919738769531
+Epoch 1800, Loss: 457.1348876953125
+Epoch 1900, Loss: 483.778564453125
+Epoch 2000, Loss: 489.0843505859375
+Epoch 2100, Loss: 425.98443603515625
+Epoch 2200, Loss: 403.76922607421875
+Epoch 2300, Loss: 474.9731140136719
+Epoch 2400, Loss: 453.8765869140625
+Epoch 2500, Loss: 381.0750732421875
+Epoch 2600, Loss: 415.54803466796875
+Epoch 2700, Loss: 536.4363403320312
+Epoch 2800, Loss: 404.46124267578125
+Epoch 2900, Loss: 385.1162109375
+Epoch 3000, Loss: 373.96478271484375
+Epoch 3100, Loss: 357.7244873046875
+Epoch 3200, Loss: 384.09503173828125
+Epoch 3300, Loss: 329.1069030761719
+Epoch 3400, Loss: 341.004150390625
+Epoch 3500, Loss: 351.44580078125
+Epoch 3600, Loss: 365.486083984375
+Epoch 3700, Loss: 314.355712890625
+Epoch 3800, Loss: 309.6317443847656
+Epoch 3900, Loss: 330.4603271484375
+Epoch 4000, Loss: 284.6492919921875
+Epoch 4100, Loss: 304.7358703613281
+Epoch 4200, Loss: 314.8835754394531
+Epoch 4300, Loss: 303.7028503417969
+Epoch 4400, Loss: 313.2279968261719
+MAE: 14.200499534606934, RMSE: 21.874021530151367, R²: 0.9277642965316772
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Using device: cuda
+Epoch 0, Loss: 9601.89453125
+Epoch 200, Loss: 3005.053466796875
+Epoch 400, Loss: 2388.43359375
+Epoch 600, Loss: 1279.948486328125
+Epoch 800, Loss: 661.0916137695312
+Epoch 1000, Loss: 724.1216430664062
+Epoch 1200, Loss: 504.71575927734375
+Epoch 1400, Loss: 466.4606628417969
+Epoch 1600, Loss: 501.9043884277344
+Epoch 1800, Loss: 390.62030029296875
+Epoch 2000, Loss: 375.3864440917969
+Epoch 2200, Loss: 424.16253662109375
+Epoch 2400, Loss: 386.3475646972656
+Epoch 2600, Loss: 333.06341552734375
+Epoch 2800, Loss: 328.0808410644531
+Epoch 3000, Loss: 330.1680603027344
+Epoch 3200, Loss: 394.21575927734375
+Epoch 3400, Loss: 315.6251220703125
+Epoch 3600, Loss: 303.7760009765625
+Epoch 3800, Loss: 349.84979248046875
+Epoch 4000, Loss: 288.3890686035156
+Epoch 4200, Loss: 307.4061279296875
+Epoch 4400, Loss: 285.5560302734375
+Epoch 4600, Loss: 302.6258239746094
+Epoch 4800, Loss: 281.6502685546875
+Epoch 5000, Loss: 266.5307312011719
+Epoch 5200, Loss: 281.793212890625
+Epoch 5400, Loss: 282.5777893066406
+Epoch 5600, Loss: 309.12225341796875
+Epoch 5800, Loss: 244.86996459960938
+time: 13.650964736938477
+MAE: 15.673405647277832, RMSE: 23.45180320739746, R²: 0.9169676899909973
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Using device: cuda
+Epoch 0, Loss: 135374.21875
+Epoch 200, Loss: 4134.53271484375
+Epoch 400, Loss: 3624.129638671875
+Epoch 600, Loss: 3329.739990234375
+Epoch 800, Loss: 3087.797119140625
+Epoch 1000, Loss: 2757.869384765625
+Epoch 1200, Loss: 2558.282958984375
+Epoch 1400, Loss: 2286.26220703125
+Epoch 1600, Loss: 2066.555908203125
+Epoch 1800, Loss: 1798.6927490234375
+Epoch 2000, Loss: 1670.317626953125
+Epoch 2200, Loss: 1432.0419921875
+Epoch 2400, Loss: 1418.990234375
+Epoch 2600, Loss: 1331.12841796875
+Epoch 2800, Loss: 1222.0703125
+Epoch 3000, Loss: 1111.120849609375
+Epoch 3200, Loss: 920.6167602539062
+Epoch 3400, Loss: 870.3347778320312
+Epoch 3600, Loss: 737.1801147460938
+Epoch 3800, Loss: 678.3394775390625
+Epoch 4000, Loss: 636.3534545898438
+Epoch 4200, Loss: 596.4557495117188
+Epoch 4400, Loss: 571.34912109375
+Epoch 4600, Loss: 653.98046875
+Epoch 4800, Loss: 523.9791870117188
+Epoch 5000, Loss: 517.16943359375
+Epoch 5200, Loss: 517.97705078125
+Epoch 5400, Loss: 490.1964111328125
+Epoch 5600, Loss: 474.03070068359375
+Epoch 5800, Loss: 510.4800720214844
+time: 17.835338830947876
+MAE: 14.572184562683105, RMSE: 21.93182373046875, R²: 0.9273819923400879
+Using device: cuda
+Traceback (most recent call last):
+  File "/data1/qsh226/des-ml/chemBERTa.py", line 49, in <module>
+    y = (y - min_val) / (max_val - min_val)
+NameError: name 'min_val' is not defined. Did you mean: 'min_value'?
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Using device: cuda
+Epoch 0, Loss: 0.213288351893425
+Epoch 200, Loss: 0.013826923444867134
+Epoch 400, Loss: 0.0076383971609175205
+Epoch 600, Loss: 0.005932452157139778
+Epoch 800, Loss: 0.0034220812376588583
+Epoch 1000, Loss: 0.0041183303110301495
+Epoch 1200, Loss: 0.003250682959333062
+Epoch 1400, Loss: 0.0017960137920454144
+Epoch 1600, Loss: 0.0018165643559768796
+Epoch 1800, Loss: 0.0024904212914407253
+Epoch 2000, Loss: 0.0026246006600558758
+Epoch 2200, Loss: 0.0013310962822288275
+Epoch 2400, Loss: 0.0014360349159687757
+Epoch 2600, Loss: 0.0016080547356978059
+Epoch 2800, Loss: 0.0011268857633695006
+Epoch 3000, Loss: 0.001192291616462171
+Epoch 3200, Loss: 0.001030353014357388
+Epoch 3400, Loss: 0.0008813266758807003
+Epoch 3600, Loss: 0.0013129598228260875
+Epoch 3800, Loss: 0.0009817307582125068
+Epoch 4000, Loss: 0.0008861589594744146
+Epoch 4200, Loss: 0.000724758196156472
+Epoch 4400, Loss: 0.0008079948020167649
+Epoch 4600, Loss: 0.0007726636249572039
+Epoch 4800, Loss: 0.0006136757438071072
+Epoch 5000, Loss: 0.0007145142881199718
+Epoch 5200, Loss: 0.0008098051766864955
+Epoch 5400, Loss: 0.000580127292778343
+Epoch 5600, Loss: 0.000629300600849092
+Epoch 5800, Loss: 0.0012117818696424365
+time: 15.685584783554077
+MAE: 0.039854396134614944, RMSE: 0.055667050182819366, R²: 0.9187074303627014
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Using device: cuda
+Epoch 0, Loss: 0.42330899834632874
+Epoch 200, Loss: 0.01646132953464985
+Epoch 400, Loss: 0.010524432174861431
+Epoch 600, Loss: 0.005213383585214615
+Epoch 800, Loss: 0.023508815094828606
+Epoch 1000, Loss: 0.004012898076325655
+Epoch 1200, Loss: 0.004210231360048056
+Epoch 1400, Loss: 0.0073659480549395084
+Epoch 1600, Loss: 0.005595112219452858
+Epoch 1800, Loss: 0.009801316075026989
+Epoch 2000, Loss: 0.0039412048645317554
+Epoch 2200, Loss: 0.003475376171991229
+Epoch 2400, Loss: 0.003551475703716278
+Epoch 2600, Loss: 0.003272118279710412
+Epoch 2800, Loss: 0.00273556518368423
+Epoch 3000, Loss: 0.0034090348053723574
+Epoch 3200, Loss: 0.002492593601346016
+Epoch 3400, Loss: 0.0023579057306051254
+Epoch 3600, Loss: 0.0019930812995880842
+Epoch 3800, Loss: 0.0021457115653902292
+Epoch 4000, Loss: 0.0020411100704222918
+Epoch 4200, Loss: 0.002280580811202526
+Epoch 4400, Loss: 0.0018573973793536425
+Epoch 4600, Loss: 0.0019947367254644632
+Epoch 4800, Loss: 0.002158785006031394
+Epoch 5000, Loss: 0.0029292721301317215
+Epoch 5200, Loss: 0.002272076904773712
+Epoch 5400, Loss: 0.0022655643988400698
+Epoch 5600, Loss: 0.002079162746667862
+Epoch 5800, Loss: 0.001991846365854144
+time: 17.434340476989746
+MAE: 0.03591826558113098, MAE_true: 14.972529007494451, RMSE: 0.0511443093419075, R²: 0.9313802719116211
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Using device: cuda
+Epoch 0, Loss: 0.1597866266965866
+Epoch 200, Loss: 0.010994345881044865
+Epoch 400, Loss: 0.006756555754691362
+Epoch 600, Loss: 0.004778016358613968
+Epoch 800, Loss: 0.005001092795282602
+Epoch 1000, Loss: 0.0026491619646549225
+Epoch 1200, Loss: 0.001815909636206925
+Epoch 1400, Loss: 0.0016131317242980003
+Epoch 1600, Loss: 0.0014948860043659806
+Epoch 1800, Loss: 0.0013477328466251493
+Epoch 2000, Loss: 0.0012525523779913783
+Epoch 2200, Loss: 0.0012476322008296847
+Epoch 2400, Loss: 0.0011624478502199054
+Epoch 2600, Loss: 0.0014566055033355951
+Epoch 2800, Loss: 0.0016445440705865622
+Epoch 3000, Loss: 0.001074829837307334
+Epoch 3200, Loss: 0.0011073349742218852
+Epoch 3400, Loss: 0.0009583136416040361
+Epoch 3600, Loss: 0.0013460473855957389
+Epoch 3800, Loss: 0.0009652073495090008
+Epoch 4000, Loss: 0.0012321460526436567
+Epoch 4200, Loss: 0.0010451689595356584
+Epoch 4400, Loss: 0.0010232728673145175
+Epoch 4600, Loss: 0.0007936301990412176
+Epoch 4800, Loss: 0.001383493305183947
+Epoch 5000, Loss: 0.0021102747414261103
+Epoch 5200, Loss: 0.0012728769797831774
+Epoch 5400, Loss: 0.0009318306692875922
+Epoch 5600, Loss: 0.0012317588552832603
+Epoch 5800, Loss: 0.000693982932716608
+time: 17.114384412765503
+MAE: 0.04996001720428467, MAE_true: 20.825833171606064, RMSE: 0.08032912760972977, R²: 0.8270271420478821
